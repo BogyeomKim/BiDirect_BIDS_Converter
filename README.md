@@ -2,13 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/195199025.svg)](https://zenodo.org/badge/latestdoi/195199025)
 
-<<<<<<< HEAD
-This tool is a project of my PhD. I developed this tool on all the neuroimaging data of the BiDirect study (Institute of Epidemiology and Social Medicine, WWU, Münster, Germany). 
-Tested on Windows and Ubuntu 18.04.
-Conversion tested with Siemens and Philips data.
-=======
->>>>>>> 63e01cf7ffd6f38ce867c2e994f747a1cbc4724b
-
+> This tool is a project of my PhD. I developed this tool on all the neuroimaging data of the BiDirect study (Institute of Epidemiology and Social Medicine, WWU, Münster, Germany). 
+> Tested on Windows and Ubuntu 18.04.
+> Conversion tested with Siemens and Philips data.
 
 
 This tool is a project of my PhD. It converts MRI data from DICOM to BIDS in three user-interactions (csv editings). A folder containing your participants DICOMS is your input. A BIDS specification dataset, that passes the BIDS-Validator your output. I developed this tool on all the neuroimaging data of the BiDirect study (Institute of Epidemiology and Social Medicine, WWU, Münster, Germany). 
