@@ -7,9 +7,13 @@
 > Conversion tested with Siemens and Philips data.
 
 
-This tool is a project of my PhD. It converts MRI data from DICOM to BIDS in three user-interactions (csv editings). A folder containing your participants DICOMS is your input. A BIDS specification dataset, that passes the BIDS-Validator your output. I developed this tool on all the neuroimaging data of the BiDirect study (Institute of Epidemiology and Social Medicine, WWU, Münster, Germany). 
+It converts MRI data from DICOM to BIDS in three user-interactions (csv editings). 
+Your input: A folder containing your participants DICOMS. 
+Your output: A BIDS specification dataset, that passes the BIDS-Validator.
 
+This tool was developed on the neuroimaging data of the BiDirect study (Institute of Epidemiology and Social Medicine, WWU, Münster, Germany). 
 
+=====
 
 
 # Short tutorial: 
