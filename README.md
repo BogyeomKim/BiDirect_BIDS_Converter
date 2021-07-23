@@ -1,4 +1,4 @@
-# BiDirect_BIDS_Converter
+# BiDirect BIDS Converter
 
 [![DOI](https://zenodo.org/badge/195199025.svg)](https://zenodo.org/badge/latestdoi/195199025)
 
